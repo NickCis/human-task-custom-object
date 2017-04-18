@@ -1,0 +1,8 @@
+
+<form id="972393082">
+<property name="name" value="EvaluarCobertura-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#FF54A7" type="dataModelerEntry" outId="autorizacionReintegro" value="com.semperti.aleman.bpm.bpmreintegros.AutorizacionReintegro" id="autorizacionReintegro"/>
+<dataHolder inputId="paciente" name="#E9E371" type="dataModelerEntry" outId="" value="com.semperti.aleman.bpm.bpmreintegros.Paciente" id="paciente"/>
+</form>
