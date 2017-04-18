@@ -46,6 +46,6 @@ public class AutorizacionReintegro implements java.io.Serializable
    }
 
    public String toString() {
-       return "[ AutorizacionReintegro: " + (autorizoReintegro? "autorizada" : "rechazada") + " comentario: '"+comentario+"' ]";
+       return "[ AutorizacionReintegro: " + (autorizoReintegro != null && autorizoReintegro ? "autorizada" : "rechazada") + " comentario: '"+comentario+"' ]";
    }
 }
