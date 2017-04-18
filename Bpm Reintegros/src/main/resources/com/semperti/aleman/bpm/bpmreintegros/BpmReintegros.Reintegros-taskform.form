@@ -1,0 +1,8 @@
+
+<form id="632752871">
+<property name="name" value="BpmReintegros.Reintegros-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#FF54A7" type="dataModelerEntry" outId="autorizacionReintegro" value="com.semperti.aleman.bpm.bpmreintegros.AutorizacionReintegro" id="autorizacionReintegro"/>
+<dataHolder inputId="" name="#E9E371" type="dataModelerEntry" outId="paciente" value="com.semperti.aleman.bpm.bpmreintegros.Paciente" id="paciente"/>
+</form>
